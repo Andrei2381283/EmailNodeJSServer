@@ -1,0 +1,1 @@
+module.exports = (command) => (req, res, next) => command == req.body.command && next();

@@ -1,0 +1,19 @@
+{
+  "name": "emailnodejsserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1",
+    "imap": "^0.8.19",
+    "mailparser": "^3.5.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1"
+  }
+}
